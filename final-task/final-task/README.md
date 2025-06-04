@@ -53,6 +53,15 @@
 - Context API (UserContext)
 - CSS Modules
 
+  ## 🖥️ Installation & Running Locally
+
+1. Clone the repository, install dependencies, and start the development server:
+   ```bash
+   git clone https://github.com/idonevo136/React_final_project.git
+   cd final-task/final-task
+   npm install
+   npm run dev
+
 ## 📂 File Structure
 
 src/
