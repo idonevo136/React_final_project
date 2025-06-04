@@ -1,0 +1,75 @@
+.dashboard {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto;
+  gap: 20px;
+  padding: 30px;
+  background-color: #f5f7fa;
+  min-height: 100vh;
+}
+
+.topLeft, .topRight, .bottomLeft, .bottomRight {
+  background-color: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+.cardTitle {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 12px;
+  text-align: right;
+}
+
+.tableTitle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+/* סקשן הרשימות החדשות */
+.listSection {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  text-align: right;
+}
+
+.listSection h4 {
+  font-size: 16px;
+  margin: 10px 0 5px;
+  color: #333;
+}
+
+.placeholderList {
+  list-style-type: none;
+  padding: 0 10px;
+  margin: 0;
+  color: #666;
+  font-style: italic;
+}
+
+.deleteBtn {
+  background: none;
+  border: none;
+  color: red;
+  font-size: 16px;
+  cursor: pointer;
+  margin-right: 8px;
+}

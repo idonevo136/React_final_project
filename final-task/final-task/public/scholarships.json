@@ -1,0 +1,502 @@
+[
+   {
+    "id": 1,
+    "title": "Outstanding Engineering Scholarship",
+    "field": "Engineering",
+    "institution": "Technion",
+    "financial": "low",
+    "description": "For students with an average above 90 and low financial background.",
+    "amount": "$3,000",
+    "extendedDescription": "The 'Outstanding Engineering Scholarship' is intended to encourage students in the field of engineering studying at the Technion. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 2,
+    "title": "Young Art Scholarship",
+    "field": "Arts",
+    "institution": "Bezalel",
+    "financial": "medium",
+    "description": "For art students with an outstanding portfolio.",
+    "amount": "$2,500",
+    "extendedDescription": "The 'Young Art Scholarship' is intended to encourage students in the arts studying at Bezalel. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 3,
+    "title": "Community Medicine Scholarship",
+    "field": "Medicine",
+    "institution": "Tel Aviv University",
+    "financial": "low",
+    "description": "For students from underprivileged backgrounds studying medicine who commit to volunteering.",
+    "amount": "$4,000",
+    "extendedDescription": "The 'Community Medicine Scholarship' is intended to encourage students in the field of medicine studying at Tel Aviv University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 4,
+    "title": "Outstanding Computer Science Scholarship",
+    "field": "Computer Science",
+    "institution": "Hebrew University",
+    "financial": "high",
+    "description": "For outstanding computer science students with an average of 95 and above.",
+    "amount": "$5,000",
+    "extendedDescription": "The 'Outstanding Computer Science Scholarship' is intended to encourage students in computer science studying at the Hebrew University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 5,
+    "title": "Education in the Periphery Scholarship",
+    "field": "Education",
+    "institution": "Ben-Gurion University",
+    "financial": "low",
+    "description": "For undergraduate education students residing in peripheral areas.",
+    "amount": "$3,200",
+    "extendedDescription": "The 'Education in the Periphery Scholarship' is intended to encourage students in the field of education studying at Ben-Gurion University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 6,
+    "title": "Law Scholarship for Women",
+    "field": "Law",
+    "institution": "Reichman University",
+    "financial": "medium",
+    "description": "For female undergraduate law students with high achievements.",
+    "amount": "$3,000",
+    "extendedDescription": "The 'Law Scholarship for Women' is intended to encourage students in law studying at Reichman University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 7,
+    "title": "Technological Entrepreneurship Scholarship",
+    "field": "Computer Science",
+    "institution": "Technion",
+    "financial": "medium",
+    "description": "For students who initiated original technological projects.",
+    "amount": "$3,500",
+    "extendedDescription": "The 'Technological Entrepreneurship Scholarship' is intended to encourage students in computer science studying at the Technion. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 8,
+    "title": "Outstanding Humanities Scholarship",
+    "field": "Humanities",
+    "institution": "Haifa University",
+    "financial": "high",
+    "description": "For students with an average above 92 in humanities.",
+    "amount": "$2,800",
+    "extendedDescription": "The 'Outstanding Humanities Scholarship' is intended to encourage students in the field of humanities studying at the University of Haifa. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 9,
+    "title": "Civil Engineering Scholarship",
+    "field": "Engineering",
+    "institution": "Ariel University",
+    "financial": "low",
+    "description": "For students from the south in the field of civil engineering.",
+    "amount": "$3,200",
+    "extendedDescription": "The 'Civil Engineering Scholarship' is intended to encourage students in engineering studying at Ariel University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 10,
+    "title": "Gender Equality in Science Scholarship",
+    "field": "Science",
+    "institution": "Tel Aviv University",
+    "financial": "medium",
+    "description": "Scholarship to promote women in exact sciences.",
+    "amount": "$4,000",
+    "extendedDescription": "The 'Gender Equality in Science Scholarship' is intended to encourage students in exact sciences studying at Tel Aviv University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+   {
+    "id": 11,
+    "title": "Future Teachers Scholarship",
+    "field": "Education",
+    "institution": "Kibbutzim College",
+    "financial": "low",
+    "description": "For education students committed to teaching in peripheral areas.",
+    "amount": "$2,700",
+    "extendedDescription": "The 'Future Teachers Scholarship' is intended to encourage students in the field of education studying at Kibbutzim College. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 12,
+    "title": "Advanced Software Scholarship",
+    "field": "Computer Science",
+    "institution": "Open University",
+    "financial": "high",
+    "description": "For students who graduated from tech units with development experience.",
+    "amount": "$5,000",
+    "extendedDescription": "The 'Advanced Software Scholarship' is intended to encourage students in the field of computer science studying at the Open University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 13,
+    "title": "Social Sciences in the Periphery Scholarship",
+    "field": "Social Sciences",
+    "institution": "Haifa University",
+    "financial": "low",
+    "description": "For students in the periphery studying social sciences.",
+    "amount": "$3,000",
+    "extendedDescription": "The 'Social Sciences in the Periphery Scholarship' is intended to encourage students in the field of social sciences studying at the University of Haifa. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 14,
+    "title": "Visual Arts Scholarship",
+    "field": "Arts",
+    "institution": "Shenkar",
+    "financial": "medium",
+    "description": "For art students with an impressive final project.",
+    "amount": "$2,800",
+    "extendedDescription": "The 'Visual Arts Scholarship' is intended to encourage students in the field of arts studying at Shenkar. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 15,
+    "title": "Community Nursing Scholarship",
+    "field": "Medicine",
+    "institution": "Ariel University",
+    "financial": "low",
+    "description": "For nursing students in community-based programs.",
+    "amount": "$3,500",
+    "extendedDescription": "The 'Community Nursing Scholarship' is intended to encourage students in the field of medicine studying at Ariel University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 16,
+    "title": "Educational Innovation Scholarship",
+    "field": "Education",
+    "institution": "Tel Aviv University",
+    "financial": "medium",
+    "description": "For students who developed digital solutions for education.",
+    "amount": "$3,800",
+    "extendedDescription": "The 'Educational Innovation Scholarship' is intended to encourage students in the field of education studying at Tel Aviv University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 17,
+    "title": "Public Law Scholarship",
+    "field": "Law",
+    "institution": "Hebrew University",
+    "financial": "low",
+    "description": "For students focusing on human rights and social justice law.",
+    "amount": "$4,000",
+    "extendedDescription": "The 'Public Law Scholarship' is intended to encourage students in the field of law studying at the Hebrew University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 18,
+    "title": "Robotics and Engineering Scholarship",
+    "field": "Engineering",
+    "institution": "Technion",
+    "financial": "high",
+    "description": "For mechanical engineering students with achievements in robotics.",
+    "amount": "$4,200",
+    "extendedDescription": "The 'Robotics and Engineering Scholarship' is intended to encourage students in the field of engineering studying at the Technion. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 19,
+    "title": "Women in Computer Science Scholarship",
+    "field": "Computer Science",
+    "institution": "Ben-Gurion University",
+    "financial": "medium",
+    "description": "For female computer science students with high achievements.",
+    "amount": "$3,600",
+    "extendedDescription": "The 'Women in Computer Science Scholarship' is intended to encourage students in the field of computer science studying at Ben-Gurion University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+   {
+    "id": 20,
+    "title": "Community Contribution Scholarship",
+    "field": "Social Sciences",
+    "institution": "Sapir College",
+    "financial": "low",
+    "description": "For students who dedicate time to community projects.",
+    "amount": "$2,400",
+    "extendedDescription": "The 'Community Contribution Scholarship' is intended to encourage students in the field of social sciences studying at Sapir College. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 21,
+    "title": "Young Researchers Scholarship",
+    "field": "Science",
+    "institution": "Weizmann Institute",
+    "financial": "high",
+    "description": "For students who participated in research projects in the exact sciences.",
+    "amount": "$4,500",
+    "extendedDescription": "The 'Young Researchers Scholarship' is intended to encourage students in the field of exact sciences studying at the Weizmann Institute. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 22,
+    "title": "Cultural Preservation Scholarship",
+    "field": "Humanities",
+    "institution": "Bar-Ilan University",
+    "financial": "medium",
+    "description": "For students researching the culture and history of Israeli communities.",
+    "amount": "$2,800",
+    "extendedDescription": "The 'Cultural Preservation Scholarship' is intended to encourage students in the field of humanities studying at Bar-Ilan University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 23,
+    "title": "Media and Communication Scholarship",
+    "field": "Social Sciences",
+    "institution": "IDC Herzliya",
+    "financial": "medium",
+    "description": "For students with experience in journalism, social media, or content production.",
+    "amount": "$3,000",
+    "extendedDescription": "The 'Media and Communication Scholarship' is intended to encourage students in the field of social sciences studying at IDC Herzliya. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 24,
+    "title": "Speech Therapy Scholarship",
+    "field": "Medicine",
+    "institution": "Haifa University",
+    "financial": "low",
+    "description": "For undergraduate speech therapy students from the Arab or Haredi communities.",
+    "amount": "$3,200",
+    "extendedDescription": "The 'Speech Therapy Scholarship' is intended to encourage students in the field of medicine studying at the University of Haifa. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 25,
+    "title": "Advanced Agriculture Scholarship",
+    "field": "Science",
+    "institution": "Hebrew University",
+    "financial": "low",
+    "description": "For students in agriculture and water studies from peripheral areas.",
+    "amount": "$3,000",
+    "extendedDescription": "The 'Advanced Agriculture Scholarship' is intended to encourage students in the field of exact sciences studying at the Hebrew University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 26,
+    "title": "Animation and Graphic Design Scholarship",
+    "field": "Arts",
+    "institution": "Shenkar",
+    "financial": "medium",
+    "description": "For students in visual communication with outstanding works.",
+    "amount": "$2,500",
+    "extendedDescription": "The 'Animation and Graphic Design Scholarship' is intended to encourage students in the field of arts studying at Shenkar. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 27,
+    "title": "Accessibility and Equality Scholarship",
+    "field": "Law",
+    "institution": "Bar-Ilan University",
+    "financial": "low",
+    "description": "For students promoting equal rights for people with disabilities.",
+    "amount": "$3,300",
+    "extendedDescription": "The 'Accessibility and Equality Scholarship' is intended to encourage students in the field of law studying at Bar-Ilan University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 28,
+    "title": "Social Entrepreneurship Scholarship",
+    "field": "Social Sciences",
+    "institution": "Ben-Gurion University",
+    "financial": "low",
+    "description": "For students who developed initiatives for social change in Israel.",
+    "amount": "$3,600",
+    "extendedDescription": "The 'Social Entrepreneurship Scholarship' is intended to encourage students in the field of social sciences studying at Ben-Gurion University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 29,
+    "title": "Bio-Medicine Scholarship",
+    "field": "Medicine",
+    "institution": "Technion",
+    "financial": "high",
+    "description": "For outstanding students in a combined medicine and biology degree.",
+    "amount": "$4,800",
+    "extendedDescription": "The 'Bio-Medicine Scholarship' is intended to encourage students in the field of medicine studying at the Technion. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 30,
+    "title": "Open Source Scholarship",
+    "field": "Computer Science",
+    "institution": "Open University",
+    "financial": "medium",
+    "description": "For students who made significant contributions to open-source projects.",
+    "amount": "$3,900",
+    "extendedDescription": "The 'Open Source Scholarship' is intended to encourage students in the field of computer science studying at the Open University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 31,
+    "title": "Special Education in the Periphery Scholarship",
+    "field": "Education",
+    "institution": "Kibbutzim College",
+    "financial": "low",
+    "description": "For special education students working in underprivileged areas.",
+    "amount": "$3,200",
+    "extendedDescription": "The 'Special Education in the Periphery Scholarship' is intended to encourage students in the field of education studying at Kibbutzim College. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 32,
+    "title": "Excellence in Life Sciences Scholarship",
+    "field": "Science",
+    "institution": "Hebrew University",
+    "financial": "high",
+    "description": "For life sciences students with an average above 95.",
+    "amount": "$4,000",
+    "extendedDescription": "The 'Excellence in Life Sciences Scholarship' is intended to encourage students in the field of exact sciences studying at the Hebrew University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 33,
+    "title": "Cyber and Digital Security Scholarship",
+    "field": "Computer Science",
+    "institution": "Ben-Gurion University",
+    "financial": "medium",
+    "description": "For cyber program students who participated in hackathons or projects.",
+    "amount": "$4,500",
+    "extendedDescription": "The 'Cyber and Digital Security Scholarship' is intended to encourage students in the field of computer science studying at Ben-Gurion University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 34,
+    "title": "Middle Eastern Studies Scholarship",
+    "field": "Humanities",
+    "institution": "Haifa University",
+    "financial": "low",
+    "description": "For students specializing in the history, politics, and religions of the Middle East.",
+    "amount": "$2,600",
+    "extendedDescription": "The 'Middle Eastern Studies Scholarship' is intended to encourage students in the field of humanities studying at the University of Haifa. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 35,
+    "title": "Green Technology Scholarship",
+    "field": "Engineering",
+    "institution": "Technion",
+    "financial": "medium",
+    "description": "For students involved in sustainability and green energy projects.",
+    "amount": "$3,900",
+    "extendedDescription": "The 'Green Technology Scholarship' is intended to encourage students in the field of engineering studying at the Technion. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 36,
+    "title": "Jewish Culture and Identity Scholarship",
+    "field": "Humanities",
+    "institution": "Bar-Ilan University",
+    "financial": "high",
+    "description": "For students researching cultural aspects of modern Jewish identity.",
+    "amount": "$2,800",
+    "extendedDescription": "The 'Jewish Culture and Identity Scholarship' is intended to encourage students in the field of humanities studying at Bar-Ilan University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 37,
+    "title": "Digital Culture Scholarship",
+    "field": "Arts",
+    "institution": "Bezalel",
+    "financial": "medium",
+    "description": "For students in digital media, art, and technology fields.",
+    "amount": "$2,700",
+    "extendedDescription": "The 'Digital Culture Scholarship' is intended to encourage students in the field of arts studying at Bezalel. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 38,
+    "title": "Public Administration Scholarship",
+    "field": "Social Sciences",
+    "institution": "Hebrew University",
+    "financial": "low",
+    "description": "For students involved in initiatives related to governance, policy, and local government.",
+    "amount": "$3,300",
+    "extendedDescription": "The 'Public Administration Scholarship' is intended to encourage students in the field of social sciences studying at the Hebrew University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 39,
+    "title": "Support for New Immigrant Students Scholarship",
+    "field": "Any",
+    "institution": "Tel Aviv University",
+    "financial": "low",
+    "description": "For new immigrant students from any field, including language and integration support.",
+    "amount": "$2,500",
+    "extendedDescription": "The 'Support for New Immigrant Students Scholarship' is intended to encourage students in any field studying at Tel Aviv University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 40,
+    "title": "Technology Law Scholarship",
+    "field": "Law",
+    "institution": "Reichman University",
+    "financial": "high",
+    "description": "For law students specializing in privacy, cyber, and intellectual property.",
+    "amount": "$4,200",
+    "extendedDescription": "The 'Technology Law Scholarship' is intended to encourage students in the field of law studying at Reichman University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 41,
+    "title": "Educational Technologies Scholarship",
+    "field": "Education",
+    "institution": "Open University",
+    "financial": "medium",
+    "description": "For students who developed educational apps or digital tools.",
+    "amount": "$3,400",
+    "extendedDescription": "The 'Educational Technologies Scholarship' is intended to encourage students in the field of education studying at the Open University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 42,
+    "title": "Academic Interior Design Scholarship",
+    "field": "Arts",
+    "institution": "Shenkar",
+    "financial": "medium",
+    "description": "For interior design students with innovative projects.",
+    "amount": "$2,600",
+    "extendedDescription": "The 'Academic Interior Design Scholarship' is intended to encourage students in the field of arts studying at Shenkar. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 43,
+    "title": "Gender Equality in Education Scholarship",
+    "field": "Education",
+    "institution": "Kibbutzim College",
+    "financial": "low",
+    "description": "For students promoting gender equality in schools.",
+    "amount": "$3,000",
+    "extendedDescription": "The 'Gender Equality in Education Scholarship' is intended to encourage students in the field of education studying at Kibbutzim College. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 44,
+    "title": "Green Architecture Scholarship",
+    "field": "Engineering",
+    "institution": "Bezalel",
+    "financial": "medium",
+    "description": "For undergraduate architecture students specializing in sustainability.",
+    "amount": "$3,700",
+    "extendedDescription": "The 'Green Architecture Scholarship' is intended to encourage students in the field of engineering studying at Bezalel. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 45,
+    "title": "Encouragement for Haredi Students Scholarship",
+    "field": "Any",
+    "institution": "Open University",
+    "financial": "low",
+    "description": "For Haredi students from any field in need of financial support.",
+    "amount": "$2,900",
+    "extendedDescription": "The 'Encouragement for Haredi Students Scholarship' is intended to encourage students in any field studying at the Open University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 46,
+    "title": "Electrical and Computer Engineering Scholarship",
+    "field": "Engineering",
+    "institution": "Tel Aviv University",
+    "financial": "high",
+    "description": "For outstanding students in advanced technological tracks.",
+    "amount": "$4,800",
+    "extendedDescription": "The 'Electrical and Computer Engineering Scholarship' is intended to encourage students in the field of engineering studying at Tel Aviv University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 47,
+    "title": "STEM Immigrant Students Scholarship",
+    "field": "Science",
+    "institution": "Technion",
+    "financial": "low",
+    "description": "For immigrant students studying in the exact sciences.",
+    "amount": "$3,300",
+    "extendedDescription": "The 'STEM Immigrant Students Scholarship' is intended to encourage students in the field of exact sciences studying at the Technion. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 48,
+    "title": "Legal Ethics Scholarship",
+    "field": "Law",
+    "institution": "Hebrew University",
+    "financial": "medium",
+    "description": "For students engaged in legal research in ethics and public law.",
+    "amount": "$3,600",
+    "extendedDescription": "The 'Legal Ethics Scholarship' is intended to encourage students in the field of law studying at the Hebrew University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 49,
+    "title": "Excellence for Minority Students Scholarship",
+    "field": "Any",
+    "institution": "Haifa University",
+    "financial": "low",
+    "description": "For Arab, Druze, or Circassian students with high achievements.",
+    "amount": "$3,100",
+    "extendedDescription": "The 'Excellence for Minority Students Scholarship' is intended to encourage students in any field studying at the University of Haifa. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  },
+  {
+    "id": 50,
+    "title": "Behavioral Sciences Research Scholarship",
+    "field": "Social Sciences",
+    "institution": "Bar-Ilan University",
+    "financial": "high",
+    "description": "For graduate students in behavioral research.",
+    "amount": "$3,900",
+    "extendedDescription": "The 'Behavioral Sciences Research Scholarship' is intended to encourage students in the field of social sciences studying at Bar-Ilan University. The scholarship provides significant financial assistance, along with personal mentoring, participation in professional workshops, and inspirational lectures. Recipients are required to maintain academic excellence and be involved in community or social activities throughout the year."
+  }
+]
