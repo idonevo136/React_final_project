@@ -1,0 +1,38 @@
+.container {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+  padding: 30px;
+}
+
+.title {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.result {
+  background: #f9fafb;
+  padding: 20px;
+  margin: 15px 0;
+  border-radius: 8px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.05);
+}
+
+.primaryBtn {
+  background-color: #3b82f6;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.secondaryBtn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #e5e7eb;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}

@@ -1,0 +1,51 @@
+.container {
+  text-align: center;
+  padding: 40px;
+}
+
+.title {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #111827;
+}
+
+.form {
+  max-width: 500px;
+  margin: auto;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+.buttonGroup {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.primaryBtn {
+  background-color: #3b82f6;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  flex: 1;
+}
+
+.secondaryBtn {
+  background-color: #e5e7eb;
+  color: #111827;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  flex: 1;
+}

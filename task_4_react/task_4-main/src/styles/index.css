@@ -1,0 +1,13 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Base font + background */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9fafb;
+  color: #111827;
+}
